@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  <subtitle>明天会更好</subtitle>
+  <link href="https://160870.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://160870.github.io/"/>
+  <updated>2023-03-03T14:11:47.186Z</updated>
+  <id>https://160870.github.io/</id>
+  
+  <author>
+    <name>Sun Jing</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>后续补充</title>
+    <link href="https://160870.github.io/2023/03/03/hou-xu-bu-chong/"/>
+    <id>https://160870.github.io/2023/03/03/hou-xu-bu-chong/</id>
+    <published>2023-03-03T13:58:37.744Z</published>
+    <updated>2023-03-03T14:11:47.186Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;博客部署搭建完成之后本来打算开始布置页面使其更加个性化，但是发现编写好的博客并未在网页端更新，甚至没在github上跟新，是github上分支的问题，自19年后，github已不使用master作为分支，而是使用main，所以删除之前的库，重新建立，将分支改成main，问题</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://160870.github.io/2023/03/03/hello-world/"/>
+    <id>https://160870.github.io/2023/03/03/hello-world/</id>
+    <published>2023-03-03T03:05:24.867Z</published>
+    <updated>2023-03-03T03:05:24.867Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
